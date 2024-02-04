@@ -1,6 +1,6 @@
 - 👋・Hi, I’m @samidv
 - 🌱・I’m currently learning HTML, Angular, Ruby, Lua. 
-- 💞️・I’m looking to collaborate on any discord projects. 
+- 💞️・I’m looking to collaborate on any discord/web projects. 
 - 📫・How to reach me @justsam.dev on discord.
 - 😄・Pronouns: he/him
 - ⚡・Fun fact: introverted
